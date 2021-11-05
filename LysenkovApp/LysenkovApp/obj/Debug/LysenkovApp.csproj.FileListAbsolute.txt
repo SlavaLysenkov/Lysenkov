@@ -1,0 +1,11 @@
+C:\Users\Van\source\repos\LysenkovApp\LysenkovApp\bin\Debug\LysenkovApp.exe.config
+C:\Users\Van\source\repos\LysenkovApp\LysenkovApp\bin\Debug\LysenkovApp.exe
+C:\Users\Van\source\repos\LysenkovApp\LysenkovApp\bin\Debug\LysenkovApp.pdb
+C:\Users\Van\source\repos\LysenkovApp\LysenkovApp\obj\Debug\LysenkovApp.csproj.AssemblyReference.cache
+C:\Users\Van\source\repos\LysenkovApp\LysenkovApp\obj\Debug\LysenkovApp.Form1.resources
+C:\Users\Van\source\repos\LysenkovApp\LysenkovApp\obj\Debug\LysenkovApp.Properties.Resources.resources
+C:\Users\Van\source\repos\LysenkovApp\LysenkovApp\obj\Debug\LysenkovApp.csproj.GenerateResource.cache
+C:\Users\Van\source\repos\LysenkovApp\LysenkovApp\obj\Debug\LysenkovApp.csproj.CoreCompileInputs.cache
+C:\Users\Van\source\repos\LysenkovApp\LysenkovApp\obj\Debug\LysenkovApp.exe
+C:\Users\Van\source\repos\LysenkovApp\LysenkovApp\obj\Debug\LysenkovApp.pdb
+C:\Users\Van\source\repos\LysenkovApp\LysenkovApp\obj\Debug\LysenkovApp.AddItemDialog.resources
